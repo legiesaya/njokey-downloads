@@ -7,12 +7,12 @@ verification of remote employees.
 
 | Platform | File |
 |---|---|
-| Windows 10/11 (x64) | [Njokey-Presence-Setup-0.1.0.exe](https://github.com/legiesaya/njokey-downloads/releases/latest/download/Njokey-Presence-Setup-0.1.0.exe) |
+| Windows 10/11 (x64) | [Njokey-Presence-Setup.exe](https://github.com/legiesaya/njokey-downloads/releases/latest/download/Njokey-Presence-Setup.exe) |
 
 Permanent "always latest" link for websites:
 
 ```
-https://github.com/legiesaya/njokey-downloads/releases/latest/download/Njokey-Presence-Setup-0.1.0.exe
+https://github.com/legiesaya/njokey-downloads/releases/latest/download/Njokey-Presence-Setup.exe
 ```
 
 ## Verify your download
@@ -20,13 +20,13 @@ https://github.com/legiesaya/njokey-downloads/releases/latest/download/Njokey-Pr
 SHA-256:
 
 ```
-b9cd76a03f9fed60216c6e364b501ad761ac957da0744eff7a323ee976b4c42a
+f24f0f2de7b1288a9c7ccd1481b2840507936bba358e3640f3480c8974b706c3
 ```
 
 Check it in PowerShell:
 
 ```powershell
-Get-FileHash .\Njokey-Presence-Setup-0.1.0.exe -Algorithm SHA256
+Get-FileHash .\Njokey-Presence-Setup.exe -Algorithm SHA256
 ```
 
 ## Installing
